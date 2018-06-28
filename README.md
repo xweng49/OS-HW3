@@ -91,4 +91,3 @@ statistics.
 number_of_page_faults for each process;
 for Working Set, show the min and max size of the set and
 total_number_of_page_faults
-2
